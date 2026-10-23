@@ -9,7 +9,7 @@ Responsive luxury black-and-gold website for DJ OLATUNS. Built with plain HTML, 
 4. Open **Settings → Pages**.
 5. Under **Build and deployment**, select **Deploy from a branch**, branch `main`, folder `/(root)`, then click **Save**.
 6. Wait for GitHub Pages to finish deploying. The expected website URL is:
-   https://djolatuns.github.io/djolatuns/
+   https://djolatuns.github.io
 
 ## Included
 - Official black-and-gold branding and “The World of Tunes” slogan
