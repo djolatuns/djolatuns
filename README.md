@@ -3,7 +3,7 @@
 Responsive luxury black-and-gold website for DJ OLATUNS. Built with plain HTML, CSS, and JavaScript; no build tools are required.
 
 ## Publish using GitHub Pages
-1. Open https://github.com/djolatuns/djolatuns
+1. Open https://github.com/djolatuns/
 2. Click **Add file → Upload files**.
 3. Upload `index.html` from this folder and commit it to `main`.
 4. Open **Settings → Pages**.
